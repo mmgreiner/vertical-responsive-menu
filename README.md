@@ -37,10 +37,11 @@ I took this example from the provided [purecss] layouts on [Side Menu](https://p
 [styles.css](https://github.com/pure-css/pure/blob/master/site/static/layouts/side-menu/styles.css) and 
 [ui.js](https://github.com/pure-css/pure/blob/master/site/static/js/ui.js).
 
-## Caveats
+
+## Caveats
 
 I noticed that the style sheet sets the width of the vertical menu to `150px`. Just changing the width is not so simple, because then suddenly the hamburger disappears. This restricts the length of the menu texts, but I ended up not changing this.
- 
+
 ## Usage
 
 Just download the three files and open `simple_index_vertical_menu.html` in your favorite browser.
